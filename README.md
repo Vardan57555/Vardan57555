@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Vardan 👋
 
-<!--
-**Vardan57555/Vardan57555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building scalable APIs, distributed systems, and cloud-native applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Backend Developer (Node.js, TypeScript, .NET)
+- 🌍 Based in Armenia
+- 🔧 Interested in system design, microservices, and cloud infrastructure
+- 📚 Continuously learning new technologies and best practices
+
+## 🛠 Tech Stack
+
+### Backend
+- Node.js
+- TypeScript
+- Express.js
+- NestJS
+- .NET / C#
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### Messaging & Infrastructure
+- RabbitMQ
+- Docker
+- Kubernetes
+
+### Cloud & DevOps
+- AWS
+- GitHub Actions
+- CI/CD
+
+## 🌱 Current Focus
+
+- Distributed systems
+- High-performance backend services
+- Cloud architecture
+- System design
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vardan-babajanyan-2b2055283/)
+- CV: https://github.com/Vardan57555/Vardan57555/blob/main/CV.pdf
