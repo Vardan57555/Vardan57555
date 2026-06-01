@@ -41,6 +41,6 @@ Backend Engineer focused on building scalable APIs, distributed systems, and clo
 - System design
 
 ## 📫 Connect With Me
-
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vardan-babajanyan-2b2055283/)
+https://www.linkedin.com/in/vardan-babajanyan/
+- LinkedIn: https://www.linkedin.com/in/vardan-babajanyan/
 - CV: https://github.com/Vardan57555/Vardan57555/blob/main/CV.pdf
